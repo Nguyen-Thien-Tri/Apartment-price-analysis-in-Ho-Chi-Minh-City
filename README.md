@@ -4,13 +4,18 @@ With the rapid urbanization of Ho Chi Minh City, understanding apartment price t
 
 # Features
 Data Cleaning and Preprocessing.
+
 Exploratory Data Analysis (EDA).
+
 Apartment Price Prediction using Machine Learning.
+
 Interactive Visualizations for insights.
 
 # Technologies Used
 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+
 Jupyter Notebook
+
 Machine Learning models
 
 # Contributing
